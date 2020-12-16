@@ -53,7 +53,7 @@ Now Make new private repo on your github and add following files manually to you
 
 Most important thing here is that you also have to add that `galaxy.tar` file to the repo
 
-Now deploying part
+- Now deploying part
 
 We have to edit now `README.md` file to put your own github user name and repo link
 
