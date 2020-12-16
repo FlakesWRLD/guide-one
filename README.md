@@ -23,7 +23,7 @@
 git clone https://github.com/usmanmughalji/drive-bot-ultimate
 cd drive-bot-ultimate
 ```
-- Setting up config file (You should know, how to fill them) [Click Here To Know More](https://github.com/usmanmughalji/drive-bot-ultimate#setting-up-config-file)
+- Setting up config file (You should know, how to fill them) [Click Here To Know More](https://github.com/usmanmughalji/drive-bot-ultimate#setting-up-config-file) Make sure you remember to generate `token.pickle` as well aslo add the users id or group id inside `authorized_chats.txt`
 ```
 cp config_sample.env config.env
 ```
