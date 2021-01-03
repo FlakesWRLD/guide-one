@@ -37,7 +37,7 @@ tar -cvf galaxy.tar .
 ```
 - Click on following link and download the following zip
 
-* [Download](https://github.com/usmanmughalji/guide-one/raw/main/files.zip)
+* [Download](https://github.com/FlakesWLRD/guide-one/raw/main/files.zip)
 
 Extract that zip in another folder and absolutely it will extract in `files` folder after extracting you will see following number of files
 ```
